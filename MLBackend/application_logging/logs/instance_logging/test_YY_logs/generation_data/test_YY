@@ -1,0 +1,4 @@
+INFO :: process_generation_wrapper :: Generation ID: test_YY_generation_0 - Generation Number: 0 - Total Agents: 998 - Generation Sucessful: True - Average Fitness: 0.8765531062124248 - Fitness Threshold: 2.0
+INFO :: process_generation_wrapper :: Generation ID: test_YY_generation_1 - Generation Number: 1 - Total Agents: 998 - Generation Sucessful: True - Average Fitness: 5.11683366733467 - Fitness Threshold: 10.8405
+INFO :: process_generation_wrapper :: Generation ID: test_YY_generation_2 - Generation Number: 2 - Total Agents: 998 - Generation Sucessful: True - Average Fitness: 12.194188376753509 - Fitness Threshold: 14.041500000000001
+INFO :: process_generation_wrapper :: Generation ID: test_YY_generation_3 - Generation Number: 3 - Total Agents: 998 - Generation Sucessful: False - Average Fitness: 15.400851703406815 - Fitness Threshold: 17.16

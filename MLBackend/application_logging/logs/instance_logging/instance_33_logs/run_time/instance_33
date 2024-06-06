@@ -1,0 +1,5 @@
+INFO :: process_instance_wrapper :: Instance: instance_33 - Start Time: 2024-05-22 13:47:59.480961
+INFO :: process_generation_wrapper :: Generation: GenerationalLearningInstanceDataBaseModel object (80)_generation_0 - Total run Time: 0:00:01.094782 - Start Time: 2024-05-22 13:47:59.538982 - Completion Time: 2024-05-22 13:48:00.633764
+INFO :: process_generation_wrapper :: Generation: GenerationalLearningInstanceDataBaseModel object (80)_generation_1 - Total run Time: 0:00:03.497930 - Start Time: 2024-05-22 13:48:00.651762 - Completion Time: 2024-05-22 13:48:04.149692
+INFO :: process_generation_wrapper :: Generation: GenerationalLearningInstanceDataBaseModel object (80)_generation_2 - Total run Time: 0:00:03.799777 - Start Time: 2024-05-22 13:48:04.159795 - Completion Time: 2024-05-22 13:48:07.959572
+INFO :: process_instance_wrapper :: Instance: instance_33 - Completion Time: 2024-05-22 13:48:07.970658 - Total run Time: 0:00:08.489697

@@ -1,0 +1,3 @@
+INFO :: process_generation_wrapper :: Generation ID: instance_4_0 - Generation Number: 0 - Total Agents: 998 - Generation Sucessful: True - Average Fitness: 0.8066633266533065 - Fitness Threshold: 2.0
+INFO :: process_generation_wrapper :: Generation ID: instance_4_1 - Generation Number: 1 - Total Agents: 998 - Generation Sucessful: True - Average Fitness: 3.6566633266533066 - Fitness Threshold: 9.207
+INFO :: process_generation_wrapper :: Generation ID: instance_4_2 - Generation Number: 2 - Total Agents: 998 - Generation Sucessful: False - Average Fitness: 5.11998997995992 - Fitness Threshold: 10.725

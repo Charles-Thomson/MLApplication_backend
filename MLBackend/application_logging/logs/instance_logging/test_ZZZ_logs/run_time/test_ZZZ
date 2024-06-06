@@ -1,0 +1,5 @@
+INFO :: process_instance_wrapper :: Instance: test_ZZZ - Start Time: 2024-05-24 15:10:49.387753
+INFO :: process_generation_wrapper :: Generation: test_ZZZ_0 - Total run Time: 0:00:01.272693 - Start Time: 2024-05-24 15:10:49.458807 - Completion Time: 2024-05-24 15:10:50.731500
+INFO :: process_generation_wrapper :: Generation: test_ZZZ_1 - Total run Time: 0:00:03.597542 - Start Time: 2024-05-24 15:10:50.743489 - Completion Time: 2024-05-24 15:10:54.341031
+INFO :: process_generation_wrapper :: Generation: test_ZZZ_2 - Total run Time: 0:00:04.041300 - Start Time: 2024-05-24 15:10:54.365043 - Completion Time: 2024-05-24 15:10:58.406343
+INFO :: process_instance_wrapper :: Instance: test_ZZZ - Completion Time: 2024-05-24 15:10:58.415222 - Total run Time: 0:00:09.027469

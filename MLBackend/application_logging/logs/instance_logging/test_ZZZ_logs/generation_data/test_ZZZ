@@ -1,0 +1,3 @@
+INFO :: process_generation_wrapper :: Generation ID: test_ZZZ_0 - Generation Number: 0 - Total Agents: 998 - Generation Sucessful: True - Average Fitness: 0.9404308617234468 - Fitness Threshold: 2.0
+INFO :: process_generation_wrapper :: Generation ID: test_ZZZ_1 - Generation Number: 1 - Total Agents: 998 - Generation Sucessful: True - Average Fitness: 4.575450901803608 - Fitness Threshold: 9.883500000000002
+INFO :: process_generation_wrapper :: Generation ID: test_ZZZ_2 - Generation Number: 2 - Total Agents: 998 - Generation Sucessful: False - Average Fitness: 9.840631262525052 - Fitness Threshold: 10.890000000000002

@@ -1,0 +1,4 @@
+INFO :: process_instance_wrapper :: Instance: instance_1 - Start Time: 2024-05-24 15:17:33.457037
+INFO :: process_generation_wrapper :: Generation: instance_1_0 - Total run Time: 0:00:01.129880 - Start Time: 2024-05-24 15:17:33.523784 - Completion Time: 2024-05-24 15:17:34.653664
+INFO :: process_generation_wrapper :: Generation: instance_1_1 - Total run Time: 0:00:01.983268 - Start Time: 2024-05-24 15:17:34.661636 - Completion Time: 2024-05-24 15:17:36.644904
+INFO :: process_instance_wrapper :: Instance: instance_1 - Completion Time: 2024-05-24 15:17:36.655907 - Total run Time: 0:00:03.198870

@@ -1,0 +1,2 @@
+INFO :: process_instance_wrapper :: Instance: instance_10 - Start Time: 2024-05-22 13:00:45.170702
+INFO :: process_generation_wrapper :: Generation: GenerationalLearningInstanceDataBaseModel object (57)_generation_0 - Total run Time: 0:00:02.082637 - Start Time: 2024-05-22 13:00:45.220186 - Completion Time: 2024-05-22 13:00:47.302823
