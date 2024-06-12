@@ -1,4 +1,5 @@
-Back end - business, API, and data storage logic of the Machine Learning application *** See MLApplication_Frontend for presentation layer ***
+*** See MLApplication_Frontend for presentation layer ***
+Back end - business, API, and data storage logic of the Machine Learning application 
 The aim of the application is to generate and train neural networks in a predefined environment.
 Requirements:
 
